@@ -5,4 +5,4 @@ Supports A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms.
 
 - allows "weighted" paths
 
-![Start_screen](AlgoShots/Pav_start_screen.jpg?raw=true "Start_screen")
+![Start_screen](AlgoShots/Pav_start_screen.jpg "Start_screen")
