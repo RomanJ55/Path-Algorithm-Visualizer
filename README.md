@@ -3,7 +3,10 @@ Path Algorithm Visualizer programmed in python using pygame, math, random and qu
 
 Supports A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms.
 
-- allows "weighted" paths
+- allows "weighted"(loaded) paths
+- visualizes the visited & unvisited nodes
+- visualizes the path witch the algorithm has found
+  - different coloring if the path includes weights
 
 Check screenshots for further info
 
