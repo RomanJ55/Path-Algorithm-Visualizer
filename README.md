@@ -4,3 +4,5 @@ Path Algorithm Visualizer programmed in python using pygame, math, random and qu
 Supports A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms.
 
 - allows "weighted" paths
+
+![Alt text](/PathfindingAlgorithm-Visualizer/AlgoShots//AlgoShots/Pav_start_screen.jpg?raw=true "Start_screen")
