@@ -7,6 +7,8 @@ Supports A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms.
 - visualizes the visited & unvisited nodes
 - visualizes the path witch the algorithm has found
   - different coloring if the path includes weights
+  
+-might be a bit laggy(freezy) on older machines
 
 Check screenshots for further info
 
