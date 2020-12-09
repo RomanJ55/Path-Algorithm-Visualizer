@@ -2,10 +2,7 @@
 Path Algorithm Visualizer programmed in python using pygame, math, random and queue modules.
 
 Supports:
-- A*(Astar)
-- BFS(Best-first-seach) ## Greedy BFS in this case
-- Dijkstra
-Algorithms
+A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms
 
 - allows "weighted"(loaded) paths
 - visualizes the visited & unvisited nodes
