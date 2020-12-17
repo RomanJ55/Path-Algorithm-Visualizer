@@ -13,7 +13,6 @@ A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms
 Check screenshots for further info
 
 ![Start_screen](AlgoShots/Pav_start_screen.jpg "Start_screen")
-![Main_screen](AlgoShots/Pav_main_screen.jpg "Main_screen")
 ![Main running](AlgoShots/Pav_main_running.jpg "Main_running")
 ![Main finished](AlgoShots/Pav_main_finished.jpg "Main finished")
 ![Main walls](AlgoShots/Pav_main_walls.jpg "Main walls")
