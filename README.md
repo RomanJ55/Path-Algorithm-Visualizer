@@ -1,5 +1,6 @@
 # PathfindingAlgorithm-Visualizer
 Path Algorithm Visualizer programmed in python using pygame, math, random and queue modules.
+https://romanj55.github.io/PathfindingAlgorithm-Visualizer/
 
 Supports:
 A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms
