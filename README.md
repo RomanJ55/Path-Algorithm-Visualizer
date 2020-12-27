@@ -5,7 +5,7 @@ https://romanj55.github.io/PathfindingAlgorithm-Visualizer/
 Supports:
 A*(Astar), BFS(Best-first-seach) and Dijkstra Algorithms
 
-- allows "weighted"(loaded) paths
+- allows weighted paths
 - visualizes the visited & unvisited nodes in real-time
 - visualizes the path witch the algorithm has found
   - different coloring if the path includes weights
